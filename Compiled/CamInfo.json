@@ -1,0 +1,22 @@
+{
+  "cameras": [
+    {
+      "name": "Cam1",
+      "active": 1,
+      "stream": "rtsp://192.168.1.88"
+    },
+    {
+      "name": "Cam2",
+      "active": 1,
+      "stream": "rtsp://192.168.1.89"
+    },
+    {
+      "name": "Cam3",
+      "active": 1,
+      "stream": "http://192.168.1.1/video"
+    }
+  ],
+  "info": {
+    "video_length_min": 60
+  }
+}
